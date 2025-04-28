@@ -14,8 +14,9 @@ Electronics and Instrumentation Engineering graduate with strong expertise in em
 ## Technical Skills
 
 - **Programming Languages:** C, C++, Python
-- **Frameworks and Libraries:** Robot Operating System (ROS, ROS2), OpenCV
-- **Development Tools:** PlatformIO, STM32CubeMX, AVR Studio, Fusion 360, URDF, Gazebo
+- **Embedded OS:** FreeRTOS, ZephyrRTOS, Linux
+- **Frameworks and Libraries:** Robot Operating System (ROS, ROS2)
+- **Development Tools:** PlatformIO, STM32CubeMX, AVR Studio, Fusion 360, Gazebo, Foxglove
 - **Platforms:** Nvidia Xavier, Raspberry Pi, STM32, TI MSP430, Xilinx Pynq Z2, ESP, Arduino
 - **Communication Protocols:** RS-232, RS-485, Modbus, CAN, I2C, SPI, TCP/IP, UDP/IP, UART
 - **Hardware Design:** Eagle, LTSpice (Circuit design and PCB layout)
