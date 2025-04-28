@@ -1,6 +1,6 @@
 # Dipanjan Maji
 
-Location: West Bengal, India | Phone: +91 8617390599 | Email: mdipanjan2002@gmail.com  
+Location: West Bengal, India | Email: thisisdipanjan@gmail.com  
 LinkedIn: [Dipanjan Maji](https://www.linkedin.com/in/DipanjanMaji/)
 
 ---
