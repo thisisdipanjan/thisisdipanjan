@@ -1,3 +1,4 @@
+## Summary
 Electronics and Instrumentation Engineering graduate with strong expertise in embedded systems, robotics, and real-time systems. Experienced in developing scalable software for AMR, AGV, and other material handling equipment using C, C++, Python, and ROS. Hands-on experience in both hardware integration and system-level optimization across startups and multinational corporations.
 
 ---
