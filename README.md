@@ -6,20 +6,22 @@ Electronics and Instrumentation Engineering graduate with strong expertise in em
 ## Technical Skills
 
 - **Programming Languages:** C, C++, Python
-- **Embedded OS:** FreeRTOS, ZephyrRTOS, Linux
-- **Frameworks and Libraries:** Robot Operating System (ROS1, ROS2)
+- **ROS2, NAV2, behavior trees, waypoint navigation
+- **Controller and planner plugins: TEB, A*, Dijkstra, Hybrid-A*, RPP, DWA, MPC, PID, EKF, AMCL, SMAC
+- **SLAM techniques: Gmapping, RTAB-Map, ORB-SLAM, GMCL, AMCL, slam_toolbox, hecktor_slam
+- **Simulation: Gazebo, Isaac Sim, Fusion 360, and Foxglove Studio
+- **Embedded OS:** FreeRTOS, Linux
 - **Platforms:** Nvidia Xavier, Raspberry Pi, STM32, TI MSP430, Xilinx Pynq Z2, ESP, Arduino
 - **Communication Protocols:** RS-232, RS-485, Modbus, CAN, I2C, SPI, TCP/IP, UDP/IP, UART
 - **Hardware Design:** Eagle, Fusion 360, LTSpice (Circuit design and PCB layout)
-- **Specializations:** Multithreading, Concurrency, Sensor Fusion
 
 ---
 
 ## Professional Experience
 **Senior Robotics Engineer - Navigation**
 *Humro (ARAPL raas Pvt Ltd)* | July 2025 - present | Pune, India
--Developing path planning pipelines and FMS for heavy material handling robots
--Testing end to end from systems to navigation for deployment on site
+- Developing path planning pipelines and FMS for heavy material handling robots
+- Testing end to end from systems to navigation for deployment on site
 
 **Senior Engineer - Design Software**  
 *Motherson Group (ROBIS-Motherson)* | May 2024 – July 2025 | Chennai, India  
