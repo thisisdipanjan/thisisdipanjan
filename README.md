@@ -16,9 +16,13 @@ Electronics and Instrumentation Engineering graduate with strong expertise in em
 ---
 
 ## Professional Experience
+**Senior Robotics Engineer - Navigation**
+*Humro (ARAPL raas Pvt Ltd)* | July 2025 - present | Pune, India
+-Developing path planning pipelines and FMS for heavy material handling robots
+-Testing end to end from systems to navigation for deployment on site
 
 **Senior Engineer - Design Software**  
-*Motherson Group (ROBIS-Motherson)* | May 2024 – Present | Chennai, India  
+*Motherson Group (ROBIS-Motherson)* | May 2024 – July 2025 | Chennai, India  
 - Developed low-level drivers (LLDs) for AMR/AGV systems integrating sensors and actuators via Modbus TCP and CANopen.
 - Implemented multithreading for QR code navigation and odometry publishing in ROS.
 
